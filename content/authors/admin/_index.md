@@ -45,6 +45,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=SlkbsS4AAAAJ&hl=en&oi=ao
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/asaf-mazar/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -64,4 +67,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a Ph.D. student at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people form desirable habits and how they can break undesirable ones. My work uses interventions, Ecological Momentary Assessment (EMA), field experiments, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. You can read more about my work below. 
+I'm a Ph.D. student at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people form desirable habits, and how they can break undesirable ones. My work uses interventions, Ecological Momentary Assessment (EMA), field experiments, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. You can read more about my work below. 
