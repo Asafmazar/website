@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a graduate student at the University of Southern California, working primarily with Dr. Wendy Wood. I study what helps people form habits, and what make 
+bio: I'm a graduate student at the University of Southern California, working primarily with Dr. Wendy Wood. I study how people can form desirable habits and disrupt unhealthy ones.
 
 interests:
 - Habits
