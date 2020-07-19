@@ -64,4 +64,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a graduate student at the University of Southern California, working primarily with Dr. Wendy Wood. I study how people can form desirable habits and disrupt undesirable ones. My work uses interventions, Ecological Momentary Assessment (EMA), multilevel modelling, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place "in the wild". You can read more about my work below. 
+I'm a graduate student at the University of Southern California, working primarily with Dr. Wendy Wood. I study how people can form desirable habits and disrupt undesirable ones. My work uses interventions, Ecological Momentary Assessment (EMA), multilevel modelling, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-life settings. You can read more about my work below. 
