@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asaf Mazar is a graduate student at the University of Southern California. His research habits and behavior change. 
+bio: I'm a graduate student at the University of Southern California, working primarily with Dr. Wendy Wood. I study what helps people form habits, and what make 
 
 interests:
 - Habits
 - Behavior change
-- Ecological Momentary Assessment
+- Ecological Momentary Assessment (EMA)\Experience sampling
 
 education:
   courses:
@@ -42,20 +42,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=SlkbsS4AAAAJ&hl=en&oi=ao
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/Asaf Mazar CV July 2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
