@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a Ph.D. student at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people form desirable habits, and how they can break undesirable ones. My work uses field experiments, Ecological Momentary Assessment (EMA), field interventions, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. You can read more about my work below or [email me here!](#contact). 
+I'm a Ph.D. student at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people form desirable habits, and how they can break undesirable ones. My work uses field experiments, Ecological Momentary Assessment (EMA), field interventions, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. You can read more about my work below or [email me!](#contact) 
