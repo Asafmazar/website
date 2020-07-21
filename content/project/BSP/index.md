@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Using Habit Psychology to Promote Pro-Environmental Behavior"
+title: "Habit and Climate Change"
 summary: ""
 authors: []
 tags: []
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
