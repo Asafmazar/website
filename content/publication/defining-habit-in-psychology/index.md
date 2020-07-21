@@ -16,10 +16,10 @@ publishDate: 2020-07-21T00:44:29-07:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Psychology of Habit: Theory, Mechanisms, Change, and Contexts"
-publication_short: "The Psychology of Habit"
+publication: "*The Psychology of Habit: Theory, Mechanisms, Change, and Contexts*"
+publication_short: "*The Psychology of Habit*"
 
-abstract: "We review definitions of habit and evaluate how well current measures capture these definitions.  Habits are context-behavior associations in memory that develop as people repeatedly experience rewards for a given action in a given context. Habitual behavior is cued directly by context and does not require supporting goals and conscious intentions. As we explain, goals are important to initiate behavior repetition and to inhibit unwanted habit performance, and in addition can be inferred from habits. To date, research has relied on self-report methods to measure habit. These measures, by themselves, may fall short of adequately testing key features of habit, such as context dependence, or dissociating habitual and non-habitual influences on behavior. By augmenting self-reports with implicit, behavioral, and ecologicalmomentary assessment methods, researchers can gain a more complete understanding of habits and their role in shaping behavior."
+abstract: "We review definitions of habit and evaluate how well current measures capture these definitions.  Habits are context-behavior associations in memory that develop as people repeatedly experience rewards for a given action in a given context. Habitual behavior is cued directly by context and does not require supporting goals and conscious intentions. As we explain, goals are important to initiate behavior repetition and to inhibit unwanted habit performance, and in addition can be inferred from habits. To date, research has relied on self-report methods to measure habit. These measures, by themselves, may fall short of adequately testing key features of habit, such as context dependence, or dissociating habitual and non-habitual influences on behavior. By augmenting self-reports with implicit, behavioral, and ecological momentary assessment methods, researchers can gain a more complete understanding of habits and their role in shaping behavior."
 
 # Summary. An optional shortened abstract.
 summary: ""
