@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HSI"
-summary: "Could habits reduce the effect of social influence?"
+title: "Habits and Social Influence"
+summary: "Could habits reduce the effect of social influence on individual behavior?"
 authors: []
 tags: []
 categories: []

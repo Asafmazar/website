@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Habits vs. Goals"
-summary: "How do people explain their daily behavior?"
+title: "Behavior explanation"
+summary: "Can people accurately detect the roles of habit and mood in their daily behavior?"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+What role do habit and mood play in daily behavior? And how accurate are people in estimating the effect of each? In 2 studies, we tracked the effects of habit and mood on food and drink purchases (study 1) and coffee drinking (study 3). Participants overestimated the effect of mood on their behavior, and underestimated the effect of habit. This gap persisted even when we gave participants monetary bonuses for accuracy. People may underdetect the effect of habit on their daily behavior. You can read the preprint here.
