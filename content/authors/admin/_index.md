@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asaf Mazar is a graduate student at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people can form desirable habits and disrupt unhealthy ones.
+bio: Asaf Mazar is a Ph.D. student at the University of Southern California. His research interests involve how people form desirable habits, and how they can disrupt undesirable ones.
 
 interests:
 - Habits
