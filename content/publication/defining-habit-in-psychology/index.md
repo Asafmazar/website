@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+[Click here](https://psyarxiv.com/kbpmy/) for a PDF of this chapter.
