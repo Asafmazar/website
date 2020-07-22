@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Habit and Climate Change"
+title: "Habits and Climate Change"
 summary: ""
 authors: []
 tags: []
