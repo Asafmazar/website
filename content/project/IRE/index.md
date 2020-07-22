@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IRE"
+title: "Does enjoying exercise in the moment increase gym habit formation?"
 summary: ""
 authors: []
 tags: []
