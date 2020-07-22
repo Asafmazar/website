@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Behavior explanation"
+title: "Explaining Habitual Behavior"
 summary: "Can people accurately detect the roles of habit and mood in their daily behavior?"
 authors: []
 tags: []
