@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Does enjoying exercise in the moment increase gym habit formation?"
+title: "Immediate reward and exercise habit formation"
 summary: ""
 authors: []
 tags: []
