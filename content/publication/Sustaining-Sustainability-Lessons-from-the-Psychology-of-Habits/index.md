@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Behavioral Science and Policy*"
 publication_short: ""
 
-abstract: ""
+abstract: "Recent dramatic shifts in pro-environmental attitudes have not been accompanied by similar increases in sustainable behavior. We propose that this attitude-behavior gap is partly driven by unsustainable habits. Policies can reduce this gap by enacting structural changes based on insights from habit psychology and behavioral economics. We outline three behavior change principles: First, policies can leverage friction to encourage repetition of sustainable actions and impede unsustainable ones. Second, policies can set up action cues for sustainable actions and disrupt existing cues for unsustainable habits. Finally, policies can encourage sustainable habits by using psychologically-informed incentives. We then describe how even initially-unpopular policies can become acceptable through habitual repetition. Habit psychology represents a promising but currently unrealized part of the policymaker's toolbox."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://psyarxiv.com/kwdh9/
 url_code:
 url_dataset:
 url_poster:
@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+[Click here](https://psyarxiv.com/kwdh9/) to access a PDF of this paper.
