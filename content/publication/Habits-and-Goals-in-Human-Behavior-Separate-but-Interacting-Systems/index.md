@@ -1,13 +1,13 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sustaining Sustainability: Lessons from the Psychology of Habits"
+title: "Habits and Goals in Human Behavior Separate but Interacting Systems"
 authors: []
-date: 2020-07-21T19:51:43-07:00
+date: 2021-01-28T17:51:38-08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-21T19:51:43-07:00
+publishDate: 2021-01-28T17:51:38-08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2020-07-21T19:51:43-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Perspectives on Psychological Science*"
+publication: "Perspectives on Psychological Science"
 publication_short: ""
 
-abstract: "Recent dramatic shifts in pro-environmental attitudes have not been accompanied by similar increases in sustainable behavior. We propose that this attitude-behavior gap is partly driven by unsustainable habits. Policies can reduce this gap by enacting structural changes based on insights from habit psychology and behavioral economics. We outline three behavior change principles: First, policies can leverage friction to encourage repetition of sustainable actions and impede unsustainable ones. Second, policies can set up action cues for sustainable actions and disrupt existing cues for unsustainable habits. Finally, policies can encourage sustainable habits by using psychologically-informed incentives. We then describe how even initially-unpopular policies can become acceptable through habitual repetition. Habit psychology represents a promising but currently unrealized part of the policymaker's toolbox."
+abstract: "People automatically repeat behaviors that were frequently rewarded in the past in a given context. Such repetition is commonly attributed to habit, or associations in memory between a context and a response. Once habits form, contexts directly activate the response in mind. An opposing view is that habitual behaviors depend on goals. However, we show that this view is challenged by the goal independence of habits across the fields of social and health psychology, behavioral neuroscience, animal learning, and computational modeling. It also is challenged by direct tests revealing that habits do not depend on implicit goals. Furthermore, we show that two features of habit memory—rapid activation of specific responses and resistance to change—explain the different conditions under which people act on habit or pursue goals Finally, we test these features with a novel secondary analysis of action-slip data. We find that habitual responses are activated regardless of goals, but can be performed in concert with goal pursuit."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://psyarxiv.com/kwdh9/
+url_pdf: https://psyarxiv.com/qvrby/
 url_code:
 url_dataset:
 url_poster:
@@ -67,4 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-[Click here](https://psyarxiv.com/kwdh9/) to access a PDF of this paper.
+[Click here](https://psyarxiv.com/qvrby/) to access a PDF of this paper.
