@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Habits and Goals in Human Behavior Separate but Interacting Systems"
+title: "Habits and Goals in Human Behavior: Separate but Interacting Systems"
 authors: []
 date: 2021-01-28T17:51:38-08:00
 doi: ""
