@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sustaining Sustainability: Lessons from the Psychology of Habits"
+title: "Habits for our Habitat: Using Habit Psychology to Promote Sustainability"
 authors: []
 date: 2020-07-21T19:51:43-07:00
 doi: ""
