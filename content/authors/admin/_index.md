@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asaf Mazar is a Ph.D. student at the University of Southern California. His research interests involve how people form desirable habits, and how they can disrupt undesirable ones.
+bio: Asaf Mazar is a Ph.D. candidate in psychology at the University of Southern California. His research interests involve how people form desirable habits, and how they can disrupt undesirable ones.
 
 interests:
 - Habits
@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a Ph.D. student at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people form desirable habits, and how they can break undesirable ones. My work uses field studies, Ecological Momentary Assessment (EMA), nudges, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. Before entering academia, I played [harpsichord](https://en.wikipedia.org/wiki/Harpsichord) and jazz piano. You can read more about my work below or [email me!](#contact) 
+I'm a Ph.D. candidate at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people form desirable habits, and how they can break undesirable ones. My work uses field studies, Ecological Momentary Assessment (EMA), nudges, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. Before entering academia, I played [harpsichord](https://en.wikipedia.org/wiki/Harpsichord) and jazz piano. You can read more about my work below or [email me!](#contact) 
