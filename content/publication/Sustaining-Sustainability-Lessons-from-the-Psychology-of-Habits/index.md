@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Habits for our Habitat: Using Habit Psychology to Promote Sustainability"
-authors: []
+authors: [Asaf Mazar, Geoff Tomaino, Ziv Carmon, Wendy Wood]
 date: 2020-07-21T19:51:43-07:00
 doi: ""
 
@@ -46,7 +46,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Habits and Goals in Human Behavior: Separate but Interacting Systems"
-authors: [Wendy Wood, Asaf Mazar, David Neal]
-date: 2021-01-28T17:51:38-08:00
+title: "Illusory Feelings Elusive Habits: People Overlook Habits in Explanations of Behavior"
+authors: [Asaf Mazar, Wendy Wood]
+date: 2022-05-04T20:33:22+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-28T17:51:38-08:00
+publishDate: 2022-05-04T20:33:22+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,17 @@ publishDate: 2021-01-28T17:51:38-08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Perspectives on Psychological Science"
+publication: "Psychological Science"
 publication_short: ""
 
-abstract: "People automatically repeat behaviors that were frequently rewarded in the past in a given context. Such repetition is commonly attributed to habit, or associations in memory between a context and a response. Once habits form, contexts directly activate the response in mind. An opposing view is that habitual behaviors depend on goals. However, we show that this view is challenged by the goal independence of habits across the fields of social and health psychology, behavioral neuroscience, animal learning, and computational modeling. It also is challenged by direct tests revealing that habits do not depend on implicit goals. Furthermore, we show that two features of habit memory—rapid activation of specific responses and resistance to change—explain the different conditions under which people act on habit or pursue goals Finally, we test these features with a novel secondary analysis of action-slip data. We find that habitual responses are activated regardless of goals, but can be performed in concert with goal pursuit."
+abstract: "Habits underlie much of human behavior. However, people may prefer agentic accounts that overlook habits in favor
+of inner states, such as mood. We tested this misattribution hypothesis in an online experiment of helping behavior
+(N = 809 adults) as well as in an ecological momentary assessment (EMA) study of U.S. college students’ everyday
+coffee drinking (N = 112). Both studies revealed a substantial gap between perceived and actual drivers of behavior:
+Habit strength outperformed or matched inner states in predicting behavior, but participants’ explanations of their
+behavior emphasized inner states. Participants continued to misattribute habits to inner states when incentivized for
+accuracy and when explaining other people’s behavior. We discuss how this misperception could adversely influence
+self-regulation."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://psyarxiv.com/qvrby/
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/09567976211045345?casa_token=WKzPM4xUVfEAAAAA:a67232QBl7466yRT3kqFGfJqhg3NlcXiRIfsyjyZnPSCmhMjBcWrKiLatMJyrdye9j5dx0IfPMQr
 url_code:
 url_dataset:
 url_poster:
@@ -67,4 +74,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-[Click here](https://psyarxiv.com/qvrby/) to access a PDF of this paper.
