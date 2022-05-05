@@ -14,7 +14,9 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California.\(incoming) Postdoctoral Researcher\Wharton School of Business, University of Pennsylvania.
+- name: University of Southern California.
+(incoming) Postdoctoral Researcher
+Wharton School of Business, University of Pennsylvania.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
