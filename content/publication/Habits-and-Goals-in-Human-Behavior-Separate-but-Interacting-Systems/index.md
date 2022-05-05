@@ -4,7 +4,7 @@
 title: "Habits and Goals in Human Behavior: Separate but Interacting Systems"
 authors: [Wendy Wood, Asaf Mazar, David Neal]
 date: 2021-01-28T17:51:38-08:00
-doi: ""
+doi: "https://doi.org/10.1177/1745691621994226"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-28T17:51:38-08:00
