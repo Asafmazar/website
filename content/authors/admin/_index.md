@@ -14,8 +14,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California.  
-Wharton School of Business
+- name: University of Southern California.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
