@@ -14,7 +14,11 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California.\(incoming) Postdoctoral Researcher\Wharton School of Business, University of Pennsylvania.
+- name: University of Southern California.
+
+(incoming) Postdoctoral Researcher
+Wharton School of Business
+University of Pennsylvania.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +76,6 @@ email: ""
 
 I'm a Ph.D. candidate at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people form desirable habits, and how they can break undesirable ones. My work uses field studies, Ecological Momentary Assessment (EMA), nudges, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. Before entering academia, I played [harpsichord](https://en.wikipedia.org/wiki/Harpsichord) and jazz piano. You can read more about my work below or [email me!](#contact)\
 \
-I will be joining the Wharton Business School at the University of Pennsylvania as a Postdoctoral Researcher, working with Dr. Angela Duckworth.
+I will be joining the Wharton Business School at the University of Pennsylvania as a Postdoctoral Researcher, working with Dr. Angela Duckworth.\
 \
 Over the years, I've had the fortune of knowing awesome people who helped me understand where I want to go and how to get there. I'm happy to pay it forward - feel free to [reach out to me](#contact) if you want to learn more about what it's like to do behavioral science research within and outside of academia.
