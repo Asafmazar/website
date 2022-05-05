@@ -4,7 +4,7 @@
 title: "Habits for our Habitat: Using Habit Psychology to Promote Sustainability"
 authors: [Asaf Mazar, Geoff Tomaino, Ziv Carmon, Wendy Wood]
 date: 2020-07-21T19:51:43-07:00
-doi: ""
+doi: "https://doi.org/10.1353/bsp.2021.0014"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-21T19:51:43-07:00
