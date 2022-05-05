@@ -4,7 +4,7 @@
 title: "Illusory Feelings Elusive Habits: People Overlook Habits in Explanations of Behavior"
 authors: [Asaf Mazar, Wendy Wood]
 date: 2022-05-04T20:33:22+03:00
-doi: ""
+doi: "https://doi.org/10.1177/09567976211045345"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-05-04T20:33:22+03:00
