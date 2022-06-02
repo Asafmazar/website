@@ -8,6 +8,8 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
+email: hello@asafmazar.com
+
 # Automatically link email and phone?
 autolink = true
 
@@ -17,4 +19,3 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-
