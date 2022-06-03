@@ -8,8 +8,6 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
-email: hello@asafmazar.com
-
 # Automatically link email and phone?
 autolink = true
 
