@@ -76,4 +76,4 @@ My work uses field studies, Ecological Momentary Assessment (EMA), nudges, geosp
 \
 Starting July 2022, I will join the Wharton School of Business at the University of Pennsylvania, working with Dr. Angela Duckworth.\
 \
-Over the years, I've had the fortune of knowing awesome people who helped me understand where I want to go and how to get there. I'm happy to pay it forward - feel free to [reach out to me](#contact) if you want to learn more about what it's like to do behavioral science research within and outside of academia.
+Over the years, I've had the fortune of knowing awesome people who helped me understand where I want to go and how to get there. I'm happy to pay it forward - feel free to [reach out to me](#contact) if you want to learn more about doing behavioral science within and outside of academia.
