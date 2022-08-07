@@ -75,6 +75,6 @@ email: ""
 
 I'm a behavioral scientist and Postdoctoral Research Fellow at The Wharton School at the University of Pennsylvania. I study how people form desirable habits, and how they can break undesirable ones.
 
-My work uses field studies, Ecological Momentary Assessment (EMA), nudges, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. Before entering academia, I played [harpsichord](https://en.wikipedia.org/wiki/Harpsichord) and jazz piano. You can read more about my work below or [email me!](#contact)\
+My work uses field studies, nudges, Ecological Momentary Assessment (EMA), geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. Before entering academia, I played [harpsichord](https://en.wikipedia.org/wiki/Harpsichord) and jazz piano. You can read more about my work below or [email me!](#contact)
 
 Over the years, I've had the fortune of knowing awesome people who helped me understand where I want to go and how to get there. I'm happy to pay it forward - feel free to [reach out to me](#contact) if you want to learn more about doing behavioral science within and outside of academia.
