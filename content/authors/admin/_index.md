@@ -14,7 +14,7 @@ role: Behavioral Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: The Wharton School, University of Pennsylvania
+- name: Postdoctoral Research Fellow, The Wharton School, University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
