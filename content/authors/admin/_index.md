@@ -23,7 +23,7 @@ bio: Asaf Mazar is a Behavioral Scientist and Postdoctoral Research Fellow at Th
 interests:
 - Habits
 - Behavior change
-- Ecological Momentary Assessment (EMA)\Experience sampling
+- Friction
 
 education:
   courses:
@@ -73,7 +73,7 @@ email: ""
 #- Visitors
 ---
 
-I'm a behavioral scientist and Postdoctoral Research Fellow at The Wharton School at the University of Pennsylvania. I study how people form desirable habits, and how they can break undesirable ones.
+I'm a behavioral scientist and postdoctoral research fellow at The Wharton School at the University of Pennsylvania. I study how people form desirable habits, and how they can break undesirable ones.
 
 My work uses field studies, nudges, Ecological Momentary Assessment (EMA), geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. Before entering academia, I played [harpsichord](https://en.wikipedia.org/wiki/Harpsichord) and jazz piano. You can read more about my work below or [email me!](#contact)
 
