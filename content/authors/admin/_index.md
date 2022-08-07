@@ -14,11 +14,11 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California Incoming - Postdoctoral Researcher at the Wharton School of Business, University of Pennsylvania
+- name: Postdoctoral Research Fellow, The Wharton School, University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asaf Mazar is a Ph.D. candidate in psychology at the University of Southern California. His research interests involve how people form desirable habits, and how they can disrupt undesirable ones.
+bio: Asaf Mazar is a Behavioral Scientist and Postdoctoral Research Fellow at The Wharton School, University of Pennsylvania. He studies how people form desirable habits, and how they can disrupt undesirable ones.
 
 interests:
 - Habits
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D., Psychology
+    institution: University of Southern California
+    year: 2022
   - course: M.A., Psychology
     institution: University of Southern California
     year: 2019
@@ -70,10 +73,8 @@ email: ""
 #- Visitors
 ---
 
-I'm a behavioral scientist and Ph.D. candidate at the University of Southern California, working primarily with [Dr. Wendy Wood](https://dornsife.usc.edu/wendy-wood). I study how people form desirable habits, and how they can break undesirable ones.
+I'm a behavioral scientist and Postdoctoral Research Fellow at The Wharton School at the University of Pennsylvania. I study how people form desirable habits, and how they can break undesirable ones.
 
 My work uses field studies, Ecological Momentary Assessment (EMA), nudges, geospatial analysis, and surveys to paint a broad picture of how behavior change takes place in real-world settings. Before entering academia, I played [harpsichord](https://en.wikipedia.org/wiki/Harpsichord) and jazz piano. You can read more about my work below or [email me!](#contact)\
-\
-Starting July 2022, I will join the Wharton School of Business at the University of Pennsylvania, working with Dr. Angela Duckworth.\
-\
+
 Over the years, I've had the fortune of knowing awesome people who helped me understand where I want to go and how to get there. I'm happy to pay it forward - feel free to [reach out to me](#contact) if you want to learn more about doing behavioral science within and outside of academia.
