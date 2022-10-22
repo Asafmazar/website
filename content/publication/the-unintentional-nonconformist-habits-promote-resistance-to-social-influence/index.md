@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Unintentional Nonconformist Habits Promote Resistance to Social Influence"
+title: "The Unintentional Nonconformist: Habits Promote Resistance to Social Influence"
 authors: [Asaf Mazar, Guy Itzchakov, Alicea Lieberman, Wendy Wood]
 date: 2022-05-05T21:16:00+03:00
 doi: "https://doi.org/10.1177/01461672221086177"
