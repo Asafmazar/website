@@ -73,8 +73,8 @@ email: ""
 #- Visitors
 ---
 
-I'm a behavioral scientist and postdoctoral research fellow at The Wharton School, University of Pennsylvania. I study how people form and break habits, as well as how behavior is shaped by friction, or seemingly-small external barriers.
+I'm a behavioral scientist. I study how people form and break habits, as well as how behavior is shaped by friction, or seemingly-small external barriers.
 
-To understand how behavior change unfolds in real-world settings, my work uses a diverse range of methods, including field experiments, experience sampling, geospatial analysis, and surveys. My work has been published in top academic journals (_Proceedings of the National Academy of Sciences, Psychological Science_) and media outlets (_Washington Post, Forbes, Fortune, Time, Financial Times, CNN_). Before entering academia, I played harpsichord and jazz piano. You can read more about my work below or [email me!](#contact)
+To understand behavior, my work uses a diverse range of methods, including experiments, machine learning, experience sampling, geospatial analysis, and surveys. My work has been published in top academic journals (_Proceedings of the National Academy of Sciences, Psychological Science_) and media outlets (Forbes, Fortune, Time, Financial Times, CNN_). Before entering academia, I played harpsichord and jazz piano. You can read more about my work below or [email me!](#contact)
 
 Over the years, I've had the fortune of knowing awesome people who helped me understand where I want to go and how to get there. I'm happy to pay it forward - feel free to [reach out to me](#contact) if you want to learn more about doing behavioral science within and outside of academia.
