@@ -25,7 +25,7 @@ interests:
 - Behavior change
 - Experimentation (A/B tests)
 - Machine learning
-- Friction
+- Survey design
 
 education:
   courses:
