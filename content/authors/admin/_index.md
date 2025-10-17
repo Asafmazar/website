@@ -21,8 +21,10 @@ role: Behavioral Scientist
 bio: Asaf Mazar is a Behavioral Scientist. He studies how people form desirable habits, and how they can disrupt undesirable ones.
 
 interests:
-- Habits
+- Habit formation
 - Behavior change
+- Experimentation (A/B tests)
+- Machine learning
 - Friction
 
 education:
