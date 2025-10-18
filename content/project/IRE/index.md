@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Immediate reward and exercise habit formation"
-summary: ""
+title: "Do Immediate Rewards Jump-Start Exercise Habits?"
+summary: "Longitudinal experiments testing whether instant incentives speed up habit formation."
 authors: []
 tags: []
 categories: []
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Cover page placeholder — replace with the study's featured image."
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).

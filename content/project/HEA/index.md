@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Explaining Habitual Behavior"
-summary: "Can people accurately detect the roles of habit and mood in their daily behavior?"
+title: "Do We Misjudge How Habit Shapes Daily Behavior?"
+summary: "Field studies tracking purchases and coffee reveal people overestimate mood and overlook habit."
 authors: []
 tags: []
 categories: []
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Cover page placeholder — swap in the study's title slide."
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).

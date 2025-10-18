@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Habits and Social Influence"
-summary: "Could habits reduce the effects of social influence?"
+title: "Do Strong Habits Shield Us from Social Influence?"
+summary: "Across three studies, entrenched routines muted both helpful and harmful peer pressure."
 authors: []
 tags: []
 categories: []
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Cover page placeholder — update with the project artwork when ready."
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).

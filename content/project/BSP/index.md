@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Habits and Climate Change"
-summary: ""
+title: "Can Consistent Habits Help Tackle Climate Change?"
+summary: "Testing whether everyday routines can make sustainable choices the default."
 authors: []
 tags: []
 categories: []
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Cover page placeholder — replace with the paper's title slide when available."
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
@@ -39,4 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
