@@ -4,7 +4,7 @@
 title: "Can Consistent Habits Help Tackle Climate Change?"
 summary: "Testing whether everyday routines can make sustainable choices the default."
 authors: []
-tags: []
+tags: ['Habit formation', 'Sustainability']
 categories: []
 date: 2020-07-20T15:46:43-07:00
 
