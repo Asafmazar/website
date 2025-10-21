@@ -7,7 +7,7 @@ summary = "Exploring the questions that drive my research."
 #   2 = Compact
 #   3 = Card
 #   5 = Showcase
-view = 5
+view = 1
 
 # Disable pagination so all projects show on one page.
 paginate = 0
