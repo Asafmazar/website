@@ -1,4 +1,4 @@
-.*DS_Store*
+.DS_Store
 
 # IDEs
 .idea/
@@ -7,3 +7,8 @@
 resources/
 public/
 
+.DS_Store
+.DS_Store
+config/.DS_Store
+content/.DS_Store
+static/.DS_Store
