@@ -12,7 +12,7 @@ view = 5
 # Disable pagination so all projects show on one page.
 paginate = 0
 
-header:
-  caption = ""
-  image = ""
+[header]
+  caption = ''
+  image = ''
 +++
